@@ -13,7 +13,7 @@ def test_create_beer_via_api():
             "name": "Skol",
             "style": "KornPA",
             "flavor": 1,
-            "image": 5,
+            "image": 1,
             "cost": 2,
         },
     )
